@@ -2,6 +2,8 @@
 
 ### Notes from the call
 
+Start: look for related works so we don't re-invent the wheel.
+
 How do I take faculty material and build out a course. Digital twin for Dr. Montgomery. How do we make it re-usable for other faculty for other courses.
 
 We want to do background on whether this works. Classroom evalautions, watch you give an evaluation on your exams and teaching, are they robust to LLM-interference?
