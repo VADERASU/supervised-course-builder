@@ -1,0 +1,98 @@
+[
+  {
+    "title": "IEE 572 Design of Engineering Experiments — Fall 2025 syllabus served for Spring 2026 listing",
+    "url": "https://syllabus.apps.asu.edu/syllabus/2261/10911",
+    "landing_url": "https://syllabus.apps.asu.edu/syllabus/2261/10911",
+    "type": "syllabus-pdf",
+    "area": "asu-courses",
+    "origin": "montgomery-course",
+    "access": "public-download",
+    "license": "No open reuse license identified. Public availability does not establish permission to redistribute course content.",
+    "notes": "Public syllabus names Professor D.C. Montgomery and includes course outline, readings, and assessment/project information. Retrieved through the anonymous download endpoint used by ASU's public syllabus viewer. Important date mismatch: the source listing is Spring 2026, but the PDF itself explicitly says Fall 2025 and gives August 2025 start dates. It is not a verified Spring 2026 syllabus.",
+    "public_api_url": "https://syllabus-api.apps.asu.edu/get-download-url?classNumber=10911&strm=2261",
+    "destination": "downloads/asu-syllabi/iee572-fall2025.pdf"
+  },
+  {
+    "title": "IEE 578 Regression Analysis — spring2026 public syllabus",
+    "url": "https://syllabus.apps.asu.edu/syllabus/2261/24726",
+    "landing_url": "https://syllabus.apps.asu.edu/syllabus/2261/24726",
+    "type": "syllabus-pdf",
+    "area": "asu-courses",
+    "origin": "montgomery-course",
+    "access": "public-download",
+    "license": "No open reuse license identified. Public availability does not establish permission to redistribute course content.",
+    "notes": "Public syllabus names Professor D.C. Montgomery and includes course outline, readings, and assessment/project information. Retrieved through the anonymous download endpoint used by ASU's public syllabus viewer.",
+    "public_api_url": "https://syllabus-api.apps.asu.edu/get-download-url?classNumber=24726&strm=2261",
+    "destination": "downloads/asu-syllabi/iee578-spring2026.pdf"
+  },
+  {
+    "title": "IEE 579 Time Series Analysis and Forecasting — fall2025 public syllabus",
+    "url": "https://syllabus.apps.asu.edu/syllabus/2257/81191",
+    "landing_url": "https://syllabus.apps.asu.edu/syllabus/2257/81191",
+    "type": "syllabus-pdf",
+    "area": "asu-courses",
+    "origin": "montgomery-course",
+    "access": "public-download",
+    "license": "No open reuse license identified. Public availability does not establish permission to redistribute course content.",
+    "notes": "Public syllabus names Professor D.C. Montgomery and includes course outline, readings, and assessment/project information. Retrieved through the anonymous download endpoint used by ASU's public syllabus viewer.",
+    "public_api_url": "https://syllabus-api.apps.asu.edu/get-download-url?classNumber=81191&strm=2257",
+    "destination": "downloads/asu-syllabi/iee579-fall2025.pdf"
+  },
+  {
+    "title": "IEE 582 Response Surfaces and Process Optimization — spring2022 public syllabus",
+    "url": "https://syllabus.apps.asu.edu/syllabus/2221/34456",
+    "landing_url": "https://syllabus.apps.asu.edu/syllabus/2221/34456",
+    "type": "syllabus-pdf",
+    "area": "asu-courses",
+    "origin": "montgomery-course",
+    "access": "public-download",
+    "license": "No open reuse license identified. Public availability does not establish permission to redistribute course content.",
+    "notes": "Public syllabus names Professor D.C. Montgomery and includes course outline, readings, and assessment/project information. Retrieved through the anonymous download endpoint used by ASU's public syllabus viewer.",
+    "public_api_url": "https://syllabus-api.apps.asu.edu/get-download-url?classNumber=34456&strm=2221",
+    "destination": "downloads/asu-syllabi/iee582-spring2022.pdf"
+  },
+  {
+    "title": "Modern DOE — Bradley Jones and Douglas Montgomery, JMP academic webinar",
+    "url": "https://www.youtube.com/watch?v=flqTHTbjMa8",
+    "landing_url": "https://www.jmp.com/en/academic/academic-webinars",
+    "type": "video",
+    "area": "jmp-companions",
+    "origin": "montgomery-presentation",
+    "access": "public-page",
+    "license": "Original JMP/SAS and author copyrights apply; no open reuse license identified.",
+    "notes": "Linked from the Modern DOE section of the official JMP academic webinar library. Public streaming link; video not copied."
+  },
+  {
+    "title": "Modern DOE — JMP journal with data and analyses",
+    "url": "https://www.jmp.com/content/dam/jmp/documents/en/academic/webinars/journals/doe-jones-montgomery.jrn",
+    "landing_url": "https://www.jmp.com/en/academic/academic-webinars",
+    "type": "worked-examples",
+    "area": "jmp-companions",
+    "origin": "montgomery-presentation",
+    "access": "public-download",
+    "license": "Original JMP/SAS and author copyrights apply; no open reuse license identified.",
+    "notes": "Official downloadable companion to the Jones–Montgomery webinar; requires JMP to open the journal."
+  },
+  {
+    "title": "Statistical Quality Control JMP companion — Ramirez webinar introduction slides",
+    "url": "https://www.jmp.com/content/dam/jmp/documents/en/academic/webinars/journals/ramirez-sqc.pdf",
+    "landing_url": "https://www.jmp.com/en/academic/academic-webinars",
+    "type": "slides",
+    "area": "jmp-companions",
+    "origin": "third-party-companion",
+    "access": "public-download",
+    "license": "Original JMP/SAS and author copyrights apply; no open reuse license identified.",
+    "notes": "Presented by Brenda and José Ramírez using their companion to Montgomery's quality-control textbook. These are not Montgomery's ASU lecture slides."
+  },
+  {
+    "title": "Statistical Quality Control JMP companion — Ramirez webinar data and analyses",
+    "url": "https://www.jmp.com/content/dam/jmp/documents/en/academic/webinars/journals/isqc-data.zip",
+    "landing_url": "https://www.jmp.com/en/academic/academic-webinars",
+    "type": "dataset",
+    "area": "jmp-companions",
+    "origin": "third-party-companion",
+    "access": "public-download",
+    "license": "Original JMP/SAS and author copyrights apply; no open reuse license identified.",
+    "notes": "Official software companion examples presented by Brenda and José Ramírez; not an ASU course release."
+  }
+]

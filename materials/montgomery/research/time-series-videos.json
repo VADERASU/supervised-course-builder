@@ -1,0 +1,113 @@
+{
+  "title": "Introduction to Time Series Analysis and Forecasting, 3rd edition: public companion lecture gallery",
+  "checked_on": "2026-11-06",
+  "gallery_url": "https://higheredbcs.wiley.com/legacy/college/montgomery/139418669X/vids/9781394186693_Videos.html",
+  "publisher_landing_url": "https://bcs.wiley.com/he-bcs/Books?action=chapter&bcsId=12834&chapterId=154527&itemId=139418669X",
+  "public_player_script": "https://players.brightcove.net/624142947001/experience_66759d04612b25206e39d442/live.js",
+  "metadata_method": "Read public gallery/player configuration and the public playlist metadata requested by that embedded player. No login or media download.",
+  "account_id": "624142947001",
+  "playlist_id": "1802483762180584226",
+  "video_count": 19,
+  "total_duration_ms": 9116885,
+  "total_duration_hms": "2:31:56",
+  "download_enabled": false,
+  "speaker": "Not identified in the public playlist metadata; do not infer that Montgomery personally narrates.",
+  "license": "Copyright Wiley; no open reuse license stated. Public access does not establish permission to redistribute or adapt.",
+  "videos": [
+    {
+      "title": "01 Introduction to Time Series Analysis and Forecasting",
+      "video_id": "6355437703112",
+      "duration_ms": 392171
+    },
+    {
+      "title": "02 Some Examples of Time Series",
+      "video_id": "6355439783112",
+      "duration_ms": 298005
+    },
+    {
+      "title": "03 The process of Time series Analysis and Forecasting",
+      "video_id": "6355438284112",
+      "duration_ms": 356288
+    },
+    {
+      "title": "04 Statistics Background Data Visualization and Cleaning",
+      "video_id": "6355439287112",
+      "duration_ms": 473472
+    },
+    {
+      "title": "05 Numerical Description of Time Series Data",
+      "video_id": "6355439186112",
+      "duration_ms": 477376
+    },
+    {
+      "title": "06 The Variogram",
+      "video_id": "6355438786112",
+      "duration_ms": 179093
+    },
+    {
+      "title": "07 Evaluating a Time Series Model",
+      "video_id": "6355438389112",
+      "duration_ms": 767232
+    },
+    {
+      "title": "08 Introduction to Regression Methods",
+      "video_id": "6355438896112",
+      "duration_ms": 541440
+    },
+    {
+      "title": "09 Regression Methods for Time Series Data Part I",
+      "video_id": "6355439387112",
+      "duration_ms": 543147
+    },
+    {
+      "title": "10 Regression Methods for Time Series Data Part II",
+      "video_id": "6355438283112",
+      "duration_ms": 402091
+    },
+    {
+      "title": "11 Introduction to Exponential Smoothing",
+      "video_id": "6355440070112",
+      "duration_ms": 300416
+    },
+    {
+      "title": "12 Exponential Smoothing for Seasonal Time Series",
+      "video_id": "6355437412112",
+      "duration_ms": 420864
+    },
+    {
+      "title": "13 Introduction to ARIMA Models",
+      "video_id": "6355438684112",
+      "duration_ms": 557931
+    },
+    {
+      "title": "14 Building ARIMA Models Part I",
+      "video_id": "6355437905112",
+      "duration_ms": 479829
+    },
+    {
+      "title": "15 Building ARIMA Models Part II",
+      "video_id": "6355438198112",
+      "duration_ms": 482197
+    },
+    {
+      "title": "16 Transfer Function Models",
+      "video_id": "6355439976112",
+      "duration_ms": 930816
+    },
+    {
+      "title": "17 Building Transfer Function Models",
+      "video_id": "6355438486112",
+      "duration_ms": 496085
+    },
+    {
+      "title": "18 Combination of Forecasts from Several Methods",
+      "video_id": "6355437811112",
+      "duration_ms": 608171
+    },
+    {
+      "title": "19 Practical Implementation and Use of Time Series Methods and Forecasting",
+      "video_id": "6355438485112",
+      "duration_ms": 410261
+    }
+  ]
+}
