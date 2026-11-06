@@ -6,6 +6,8 @@ How do I take faculty material and build out a course. Digital twin for Dr. Mont
 
 We want to do background on whether this works. Classroom evalautions, watch you give an evaluation on your exams and teaching, are they robust to LLM-interference?
 
+What is the state of the art doing about this? Canvas? Blackboard? TurnItIn? Gradescope?
+
 Collaboration with Ross to create courses in Experiment Design, Engineering Statistics, and more, suitable for supervision by Doug Montgomery.
 
 ## Public course materials
